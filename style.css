@@ -1,0 +1,84 @@
+body{
+   
+	margin: 0;
+	padding: 0;
+	height: 98vh;
+	font-size: 16px;
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(IMG-20190808-WA0000.jpg);
+    align-content: center;
+    background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.btext{
+	color:white;
+	position: absolute;
+	text-align: center;
+	top: 50% !important;
+	left: 50%;
+	line-height: 0.4cm;
+    z-index: 1;
+
+}
+
+
+
+
+ 
+
+
+
+    #particles-js
+{ 
+	height:100%;
+
+    width: 100%;
+    height: 100%;
+        z-index: -5;
+    top: 0;
+    left: 0
+ 
+}
+
+
+
+.Soon{
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+}
+h1{
+    top: 50%;
+    font-size: 65px;
+    letter-spacing: 15px;
+    
+   background: -webkit-linear-gradient(
+    #30CFD0 0%, #330867 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+    
+}
+hr{
+    width: 50%;
+    margin: 30px auto;
+    border: 1.5px solid #fff;
+}
+p{
+    font-size: 45px;
+    margin-bottom: 30px;
+      background: -webkit-linear-gradient(#E58C8A,#EEC0C6
+);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    
+}
+#launch{
+    font-size: 40px;
+    word-spacing: 20px;
+}
